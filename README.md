@@ -1,4 +1,4 @@
-# GitHub Actions Events
+# GitHub-Actions-The-Complete-Guide - 4-Workflows-&-Events---Deep-Dive - Academind Course
 
 ## Skipping actions in commit
 
